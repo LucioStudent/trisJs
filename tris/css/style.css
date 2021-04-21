@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;;
+}
+body{
+    font-family: fantasy;
+}
+h2{
+    font-size: 60px;
+}
+td{
+    width: 129px;
+    height: 129px;
+    text-align: center;
+}
+.box{
+    width: 450px;
+    height: 450px;
+    background: rgb(71, 233, 230);
+    color: #000;
+    top: 60%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 30px 30px;
+    border-radius: 10px;
+}
+.stato{
+    font-size: 30px;
+}
